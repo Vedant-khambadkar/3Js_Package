@@ -1,4 +1,4 @@
-import { type BookPage } from '../book';
+import { type BookPage } from '.';
 
 /**
  * Procedural high-resolution canvas textures for realistic book pages.

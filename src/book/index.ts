@@ -13,3 +13,4 @@ export type {
   BookRef,
   BookProps,
 } from './book.types';
+export { samplePages, createPageDataUrl } from './bookPages';
