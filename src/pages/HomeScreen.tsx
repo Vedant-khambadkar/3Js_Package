@@ -2,7 +2,6 @@ import { useRef } from 'react';
 import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 import BG from '../assets/images/bg.png';
-import { Book } from "threejs-components";
 
 const HomeScreen = () => {
   const containerRef = useRef<HTMLDivElement>(null);

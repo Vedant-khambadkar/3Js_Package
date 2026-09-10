@@ -1,5 +1,5 @@
 {
-  "name": "r3f-motion-kit",
+  "name": "@vedant-khambadkar/r3f-motion-kit",
   "version": "0.1.0",
   "description": "Reusable interactive 3D components and animations for React Three Fiber",
   "type": "module",
