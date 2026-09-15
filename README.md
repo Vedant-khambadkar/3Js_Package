@@ -36,7 +36,7 @@ Lightweight · TypeScript · Customizable · WebGL · GLSL Shaders · React Thre
 <div align="center">
 
 <video
-  src="./assets/particle-video.mp4"
+  src="https://github.com/user-attachments/assets/476a37cd-9688-4c69-be78-49468acfa99b"
   controls
   autoplay
   loop
