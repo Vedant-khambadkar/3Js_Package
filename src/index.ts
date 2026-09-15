@@ -14,3 +14,13 @@ export type {
   BookMaterialOptions,
   BookAnimationOptions,
 } from './book';
+
+export {
+  ParticleLoader,
+  Particle_Loader,
+  DEFAULT_PARTICLE_LOADER_OPTIONS,
+} from './Loader';
+
+export type {
+  ParticleLoaderProps,
+} from './Loader';
