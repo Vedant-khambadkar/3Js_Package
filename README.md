@@ -34,11 +34,8 @@ Lightweight · TypeScript · Customizable · WebGL · GLSL Shaders · React Thre
 
 ## 🎥 Visual Preview
 
-<!-- Demo Video & Animation Preview -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/demo.mp4" controls="controls" muted="muted" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" poster="https://raw.githubusercontent.com/Vedant-khambadkar/3Js_Package/main/assets/preview.png">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://raw.githubusercontent.com/Vedant-khambadkar/3Js_Package/main/assets/demo.gif" alt="r3f-motion-kit Demo Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
   <p><em>Interactive 3D Book & GLSL Particle Grid Transition Preloader</em></p>
 </div>
 
